@@ -1,0 +1,15 @@
+scheduler.c:55:16:constructorsTaskNoParameters	16	static
+scheduler.c:80:16:constructorsTaskWithParameters	32	static
+scheduler.c:107:14:constructorSDSNoParameters	16	static
+scheduler.c:127:6:destructorSDS	32	static
+scheduler.c:164:26:ConstructorBufferSchedulerNoParameters	16	static
+scheduler.c:182:6:SCH_Init	8	static
+scheduler.c:206:6:SCH_Update	8	static
+scheduler.c:217:6:dealWithTasksAdded	24	static
+scheduler.c:237:6:ProcessBufferChanged	56	static
+scheduler.c:253:6:deleteOnTheSpot	16	static
+scheduler.c:266:6:Run_Tasks	48	static
+scheduler.c:357:6:refreshBuffer	24	static
+scheduler.c:408:6:SCH_Dispatch_Tasks	24	static
+scheduler.c:442:10:SCH_Add_Task	56	static
+scheduler.c:466:9:SCH_Delete_Task	32	static

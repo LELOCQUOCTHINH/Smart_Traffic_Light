@@ -1,0 +1,11 @@
+fsm_auto.c:17:10:get_static_red_timer	4	static
+fsm_auto.c:22:10:get_static_yellow_timer	4	static
+fsm_auto.c:27:10:get_static_green_timer	4	static
+fsm_auto.c:32:6:set_static_red_timer	16	static
+fsm_auto.c:37:6:set_static_yellow_timer	16	static
+fsm_auto.c:42:6:set_static_green_timer	16	static
+fsm_auto.c:47:6:fsm_auto_init	4	static
+fsm_auto.c:54:6:decrease_led_timer_at_each_road	4	static
+fsm_auto.c:64:6:fsm_auto	8	static
+fsm_auto.c:99:6:auto_mode_display	16	static
+fsm_auto.c:132:6:run_auto	8	static

@@ -1,0 +1,5 @@
+fsm_setting.c:19:6:fsm_setting	8	static
+fsm_setting.c:164:6:reset_fsm_setting	4	static
+fsm_setting.c:169:6:validate_timer	16	static
+fsm_setting.c:179:6:display_setting	8	static
+fsm_setting.c:211:6:run_setting	8	static

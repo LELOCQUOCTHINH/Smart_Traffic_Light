@@ -1,0 +1,17 @@
+global.c:20:6:blink_led	8	static
+global.c:34:6:start_timerRun	4	static
+global.c:40:6:timerRun	4	static
+global.c:50:6:IsOneSecondPassed	4	static
+global.c:56:6:blink_traffic_light_following_desire	16	static
+global.c:82:6:clearOneSecondFlag	4	static
+global.c:87:6:run_led_traffic	8	static
+global.c:95:6:set_state_odd_road	16	static
+global.c:99:6:set_state_even_road	16	static
+global.c:104:9:get_red_even_or_odd	4	static
+global.c:108:6:set_red_even_or_odd	16	static
+global.c:113:6:off_state	4	static
+global.c:119:8:get_red_timer_string	4	static
+global.c:123:8:get_green_timer_string	4	static
+global.c:127:8:get_yellow_timer_string	4	static
+global.c:132:6:display_choose_mode	8	static
+global.c:150:6:fsm_main	8	static

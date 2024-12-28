@@ -1,0 +1,3 @@
+fsm_manual.c:10:6:fsm_manual	8	static
+fsm_manual.c:28:6:display_manual	8	static
+fsm_manual.c:39:6:run_manual	8	static
