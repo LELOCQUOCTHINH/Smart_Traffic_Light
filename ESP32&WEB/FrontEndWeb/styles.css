@@ -1,0 +1,32 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-content-wrapper {
+    flex: 1 0 auto;
+}
+
+footer {
+    flex-shrink: 0;
+}
+
+@media (max-width: 575.98px) {
+    .input-group-lg>.input-group-text, 
+    .input-group-lg>.form-control {
+        font-size: 80%;
+        font-weight: 200%;
+        text-transform: capitalize !important;
+    }
+    
+    a.btn{
+        font-size: 100%;
+    }
+
+    .footer-text{
+        font-size: 80%;
+    }
+}
